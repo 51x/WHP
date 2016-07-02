@@ -57,6 +57,15 @@ Undisclosed lnk based exploit. Possible disclosure @hack.lu 2016.
 
 
 
+To Be Added
+===========
+- Responder
+- http://www.nirsoft.net/ --> Stuff for dumping passwords
+- Binaries for fwdump and dump
+- openvpn
+- evilgrade
+
+
 
 Hashes and VirusTotal scans
 ===========
