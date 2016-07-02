@@ -59,7 +59,6 @@ Undisclosed lnk based exploit. Possible disclosure @hack.lu 2016.
 
 To Be Added
 ===========
-- Responder
 - http://www.nirsoft.net/ --> Stuff for dumping passwords
 - Binaries for fwdump and dump
 - openvpn
@@ -106,3 +105,4 @@ https://virustotal.com/en/file/5b3fda14e972d908896a605293f4634a72e2968278117410e
 rdp2tcp-0.1.tar.gz
 SHA256: 47ec6f337a386828005eeaa0535b9b31c3fb13f657ce7eb56bcaf7ce50f9fdf9
 https://virustotal.com/en/file/47ec6f337a386828005eeaa0535b9b31c3fb13f657ce7eb56bcaf7ce50f9fdf9/analysis/1466271163/
+
