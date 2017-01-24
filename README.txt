@@ -107,7 +107,9 @@ Hot Potato (nbns spoof + wpad + smb ntlm)
 http://foxglovesecurity.com/2016/01/16/hot-potato/
 
 
-.lnk exploit for NTLM hashes
+Windows XP (and after)
+.lnk exploit for receiving NetNTLM hashes remotely.
+https://www.youtube.com/watch?v=cuF_Ibo-mmM
 
 
 Backup files if contain sam
