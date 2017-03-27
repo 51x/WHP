@@ -23,6 +23,10 @@ MS08-067 Remote Stack Overflow Vulnerability Exploit (srvscv)
 https://www.exploit-db.com/exploits/7104/
 
 
+Windows Server 2016 (DoS, may lead to exec)
+"Fuzzing SMB" video, showing the crash: https://www.youtube.com/watch?v=yDae5-lIQb8
+
+
 
 Privilege Escalation
 ===========
