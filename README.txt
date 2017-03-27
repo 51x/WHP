@@ -71,7 +71,8 @@ http://foxglovesecurity.com/2016/01/16/hot-potato/
 
 
 Windows 10 (and before)
-Undisclosed lnk based exploit. Possible disclosure @hack.lu 2016.
+Link/URL based exploitation of NetNTLM hashes. Eg. sending link file in email or dropping on file share.
+Technique presented here: https://www.youtube.com/watch?v=cuF_Ibo-mmM
 
 Windows XP SP2 (and before)
 srvcheck3.exe - upnp service or SSDPSRV service 
