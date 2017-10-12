@@ -23,6 +23,11 @@ MS08-067 Remote Stack Overflow Vulnerability Exploit (srvscv)
 https://www.exploit-db.com/exploits/7104/
 
 
+Windows Windows 7 and Server 2008 R2 (x64) All Service Packs
+MS17-010 aka "Eternal Blue"
+https://github.com/RiskSense-Ops/MS17-010
+
+
 Windows Server 2016 (DoS, may lead to exec)
 "Fuzzing SMB" video, showing the crash: https://www.youtube.com/watch?v=yDae5-lIQb8
 
