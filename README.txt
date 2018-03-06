@@ -188,6 +188,7 @@ http://carnal0wnage.attackresearch.com/2010/05/playing-with-ms09-012-windows-loc
 
 Other notablelo tools
 psexec, smbshell, metasploit’s psexec, etc
+https://github.com/BloodHoundAD/BloodHound - It allows to visualize connections in an AD domain and find fast escalation ways.
 
 
 
